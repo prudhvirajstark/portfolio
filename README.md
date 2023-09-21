@@ -16,12 +16,12 @@ Welcome to my IoT Full Stack Developer portfolio. This README provides an overvi
 
 ## Professional Experience
 
-### Software Developer | Company Name
+### Software Developer | Capgemini Pvt Ltd India
 *Hyderabad, India*  
 *Employment Period: Sep 2017 - july 2019*
 
 
-### IoT Software Engineer | Company Name
+### IoT Software Engineer | Technology and Strategy GmBH
 *Stuttgart, Germany*  
 *Employment Period: July 2022 - Present*
 
