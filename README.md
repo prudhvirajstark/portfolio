@@ -50,7 +50,7 @@ Experienced senior software engineer skilled in **Python**, with a strong track 
 
 ## Contact Information
 
-- *Email*: [panisettiprudhviraj@gmail.com]
-- *LinkedIn*: [https://www.linkedin.com/in/prudhviraj-panisetti/]
+- *Email*: [panisettiprudhviraj@gmail.com](panisettiprudhviraj@gmail.com)
+- *LinkedIn*: [prudhviraj-pansetti](https://www.linkedin.com/in/prudhviraj-panisetti/)
 
 Thank you for visiting my IoT Full Stack Developer portfolio. Feel free to contact me for inquiries or collaborations.
