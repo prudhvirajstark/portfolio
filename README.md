@@ -5,15 +5,20 @@ Experienced senior software engineer skilled in **Python**, with a strong track 
 
 ## Education
 
-**Bachelors in Electronics and Communication**  
+**Bachelor's in Electronics and Communication**  
 *Saveetha University*  
 *Chennai, India*  
 *Graduation Date: May 2017*
 
-**Masters in Automotive Embedded Systems**  
+**Master's in Automotive Embedded Systems (Dual degree - M.Sc.)**  
 *ESIGELEC (Ecole Superieur d'Ingenieur en Genie Electrique)*  
 *Rouen, France*  
 *Graduation Date: April 2021*
+
+**Master's in Automotive Embedded Systems (Dual degree - M.Eng.)**  
+*Manipal University*  
+*Manipal, India*  
+*Graduation Date: May 2023*
 
 ## Professional Experience
 
