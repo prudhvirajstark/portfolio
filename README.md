@@ -1,24 +1,24 @@
 # IoT Full Stack Developer
 
-Experienced senior software engineer skilled in **Python**, with a strong track record in **IoT development**, protocols, and **database management**. Proficient in **Agile methodologies**, collaborating effectively in dynamic teams, and automating workflows with **Jenkins**. Leveraging a versatile tech stack including **Angular**, **React**, and **cloud platforms** for results-driven solutions.
+Experienced senior software engineer skilled in **Python** and **Go (Golang)**, with a strong track record in **IoT development**, protocols, and **database management**. Proficient in **Agile methodologies**, collaborating effectively in dynamic teams, and automating workflows with **Jenkins**. Leveraging a versatile tech stack including **Angular**, **React**, and **cloud platforms** for results-driven solutions.
 
 
 ## Education
 
-**Bachelor's in Electronics and Communication**  
-*Saveetha University*  
-*Chennai, India*  
-*Graduation Date: May 2017*
+**Master's in Automotive Embedded Systems (Dual degree - M.Eng.)**  
+*Manipal University*  
+*Manipal, India*  
+*Graduation Date: May 2023*
 
 **Master's in Automotive Embedded Systems (Dual degree - M.Sc.)**  
 *ESIGELEC (Ecole Superieur d'Ingenieur en Genie Electrique)*  
 *Rouen, France*  
 *Graduation Date: April 2021*
 
-**Master's in Automotive Embedded Systems (Dual degree - M.Eng.)**  
-*Manipal University*  
-*Manipal, India*  
-*Graduation Date: May 2023*
+**Bachelor's in Electronics and Communication**  
+*Saveetha University*  
+*Chennai, India*  
+*Graduation Date: May 2017*
 
 ## Professional Experience
 
@@ -44,7 +44,7 @@ Experienced senior software engineer skilled in **Python**, with a strong track 
 
 ## Skills
 
-- *Programming Languages*: Python, Typescript, JavaScript
+- *Programming Languages*: Python, Typescript, JavaScript, Go 
 - *IoT Protocols*: MQTT, CoAP, HTTP, WebSocket
 - *Cloud Platforms*: AWS, Azure
 - *IoT Hardware*: Raspberry Pi, Arduino, ESP8266/ESP32
@@ -57,5 +57,6 @@ Experienced senior software engineer skilled in **Python**, with a strong track 
 
 - *Email*: [panisettiprudhviraj@gmail.com](panisettiprudhviraj@gmail.com)
 - *LinkedIn*: [prudhviraj-pansetti](https://www.linkedin.com/in/prudhviraj-panisetti/)
+- *Medium*: [prudhviraj-pansetti](https://infiniteknowledge.medium.com/)
 
 Thank you for visiting my IoT Full Stack Developer portfolio. Feel free to contact me for inquiries or collaborations.
